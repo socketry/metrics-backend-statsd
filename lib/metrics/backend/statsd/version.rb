@@ -6,7 +6,7 @@
 module Metrics
 	module Backend
 		module Statsd
-			VERSION = "0.0.0"
+			VERSION = "0.1.0"
 		end
 	end
 end
